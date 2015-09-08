@@ -1,0 +1,14 @@
+{
+  "name": "collision-demo",
+  "version": "1.0.0",
+  "description": "security demo",
+  "main": "hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-string": "^0.1.2"
+  }
+}
